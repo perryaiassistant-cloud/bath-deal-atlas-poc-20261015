@@ -1,1 +1,1 @@
-{"name":"bath-deal-triage","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test","start":"python3 -m http.server 4173"}}
+{"name":"bath-deal-triage","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test","start":"vite --host 0.0.0.0","build":"vite build"},"devDependencies":{"vite":"^7.1.0"}}
